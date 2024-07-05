@@ -10,5 +10,7 @@
 - *Login*     
 - *Logout*    
 - *Send/Receive Message*     
-- *Emoji Message*    
+- *Emoji Message*
+- *Set Profile picture*
+- *Session Control*
 - *Shows all the users who are available on the chat app*    
